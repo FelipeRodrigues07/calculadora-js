@@ -13,7 +13,7 @@ function insert(num) {
       tela.length - 1
     );
   }
-  
+  //
   function calcular() {
     let tela = document.querySelector(".tela").innerHTML;
     if (tela) {
